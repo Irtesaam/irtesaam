@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
   </div>
 <div id="badges" align="center">
-  <a href="https://in.linkedin.com/in/irtesaam-atfi-a6aa0924a">
+  <a href="https://in.linkedin.com/in/irtesaam-atfi-a6aa0924a" target="blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/irtesaam.atfi__">
+  <a href="https://instagram.com/irtesaam.atfi__" blank="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
