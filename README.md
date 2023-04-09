@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNmNGUxZjMxOTk5NzMxZjQ1OGQzNzQ1YTBkOGQwNTMxMDZjNmEyNiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   </div>
-  ---
+ 
   
   
 ### :man_technologist: About Me : 
