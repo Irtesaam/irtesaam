@@ -28,16 +28,18 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNmNGUxZjMxOTk5NzMxZjQ1OGQzNzQ1YTBkOGQwNTMxMDZjNmEyNiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   </div>
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+### :man_technologist: About Me : 
 
-### :man_technologist: About Me : I am an InfoSec enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m a 1st year B.Tech student at NIT Hamirpur.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A 1st year B.Tech student at NIT Hamirpur and an InfoSec enthusiast
 
 - :seedling: Exploring different domains in Technology.
 
 - :zap: In my free time, I love to learn new things which could broaden my horizon.
 
 
-### :hammer_and_wrench: Languages and Tools :
+<!--### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+-->
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irtesaam&theme=dark&background=000000)](https://git.io/streak-stats)
   
