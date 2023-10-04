@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ### :man_technologist: About Me : 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A 1st year B.Tech student at NIT Hamirpur and an InfoSec enthusiast
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> B.Tech student at NIT Hamirpur and an InfoSec enthusiast
 
 - :seedling: Exploring different domains in Technology.
 
