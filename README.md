@@ -24,7 +24,7 @@ function aboutMe() {
   <a href="https://in.linkedin.com/in/irtesaam-atfi-a6aa0924a">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://nextjs-website-3p7bbi582-irtesaams-projects.vercel.app">
+  <a href="https://www.instagram.com/irte.snaps_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
