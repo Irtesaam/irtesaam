@@ -126,3 +126,8 @@ function aboutMe() {
     </td>
  </tr>
 </table>
+
+<!--
+### :star: My Badges (as an Open Source Contributor) :
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150">
+-->
