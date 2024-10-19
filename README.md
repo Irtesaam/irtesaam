@@ -33,7 +33,7 @@ function aboutMe() {
 ### :fire: My Stats :
 <div align="center">
 <a href="https://github.com/irtesaam/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&icon_color=4493f8&theme=github_dark&show=prs_merged_percentage&line_height=27" alt="**SEU NOME** github stats" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&icon_color=4493f8&theme=github_dark&line_height=27" alt="**SEU NOME** github stats" />
 </a>
 <a href="https://github.com/irtesaam/convoychat">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irtesaam&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=github_dark&title_color=e4405f" />
@@ -127,7 +127,5 @@ function aboutMe() {
  </tr>
 </table>
 
-<!--
-### :star: My Badges (as an Open Source Contributor) :
+### :star: My Badges :
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150">
--->
