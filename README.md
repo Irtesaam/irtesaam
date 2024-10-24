@@ -1,12 +1,15 @@
 
 <!--
 **Irtesaam/irtesaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<div align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=irtesaam&label=Profile%20views&color=blue&style=flat" alt="irtesaam"/> </p>
-
-
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Nice+to+meet+you....!&center=true&size=30&color=A9A9A9">
+  </a>
+</div>
+<hr>
 <div align="right" width="300">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNmNGUxZjMxOTk5NzMxZjQ1OGQzNzQ1YTBkOGQwNTMxMDZjNmEyNiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNmNGUxZjMxOTk5NzMxZjQ1OGQzNzQ1YTBkOGQwNTMxMDZjNmEyNiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="280" height="205"/>
   </div>
 
 ### :man_technologist: About Me : 
@@ -14,12 +17,12 @@
 function aboutMe() {
     let name = 'Irtesaam Atfi';
     let education = 'B.Tech @ NIT Hamirpur';
-    let acknowledgements = 'Another engineer';
-    let quote = 'To err is human; to really foul things up requires a computer';
+    let acknowledgement = 'Another engineer';
+    // Wanna know more ? Here you go ...
+    aboutMe();
 }
 
 ```
-
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/irtesaam-atfi-a6aa0924a">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,13 +35,13 @@ function aboutMe() {
 
 ### :fire: My Stats :
 <div align="center">
-<a href="https://github.com/irtesaam/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&icon_color=4493f8&theme=github_dark&line_height=27" alt="**SEU NOME** github stats" />
-</a>
-<a href="https://github.com/irtesaam/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irtesaam&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=github_dark&title_color=e4405f" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&show=prs_merged_percentage&text_color=ffffff&icon_color=4493f8&bg_color=151b23&line_height=27" alt="**SEU NOME** github stats" />
+
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtesaam&title_color=e4405f&text_color=ffffff&icon_color=61dafb&bg_color=151b23&langs_count=10&layout=compact&border_color=white&hide_border=false&size_weight=0.5&count_weight=0.5" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irtesaam&theme=xcode&bg_color=151b23&title_color=e4405f&hide_border=false&line=007ec6&point=ffffff" width="90%"/>
 </div>
+
 <hr>
 
 ### 💻 My favorite Frameworks and Technologies :
@@ -126,6 +129,14 @@ function aboutMe() {
     </td>
  </tr>
 </table>
+<hr>
 
 ### :star: My Badges :
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150">
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150">
+
+<hr>
+<div align="center">
+  
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle)
+</div>
