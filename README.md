@@ -33,7 +33,7 @@ function aboutMe() {
 </div>
 <hr>
 
-### :fire: My Stats :
+### :fire: Stats :
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&show=prs_merged_percentage&text_color=ffffff&icon_color=4493f8&bg_color=151b23&line_height=27" alt="**SEU NOME** github stats" />
 
@@ -44,7 +44,7 @@ function aboutMe() {
 
 <hr>
 
-### 💻 My favorite Frameworks and Technologies :
+### 💻 Top Frameworks and Technologies :
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -132,8 +132,8 @@ function aboutMe() {
 
 <hr>
 
-###  🪶 My Badges : 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+###  🪶 GSSoC'24 Badges : 
+<div style='display:flex; align-items:center' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -146,13 +146,14 @@ function aboutMe() {
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
  <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
- <br>
- <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="90px" height="90px">
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="90px" height="90px">
- <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="90px" height="90px">
 </div>
  <br>
  
+ ###  🪶 Hacktoberfest'24 Badges : 
+  
+[![An image of @irtesaam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtesaam)](https://holopin.io/@irtesaam)
+
+<hr>
 <div align="center">
   
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
