@@ -17,7 +17,7 @@
 function aboutMe() {
     let name = 'Irtesaam Atfi';
     let education = 'B.Tech @ NIT Hamirpur';
-    let acknowledgement = 'Another engineer';
+    let acknowledgement = 'Just another engineer';
     // Wanna know more ? Here you go ...
     aboutMe();
 }
@@ -160,9 +160,9 @@ npx irtesaam
 </div>
  <br>
  
- ###  🪶 Hacktoberfest'24 Badges : 
+<!-- ###  🪶 Hacktoberfest'24 Badges : 
   
-[![An image of @irtesaam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtesaam)](https://holopin.io/@irtesaam)
+ [![An image of @irtesaam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtesaam)](https://holopin.io/@irtesaam) -->
 
 <hr>
 <div align="center">
