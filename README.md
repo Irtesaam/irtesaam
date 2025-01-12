@@ -23,6 +23,7 @@ function aboutMe() {
 }
 
 ```
+
 <div id="badges" align="center">
   <a href="https://irtesnaps.in/">
    <img src="https://img.shields.io/badge/Portfolio-1b213d?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,6 +35,15 @@ function aboutMe() {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+<br>
+
+👇 <i>Wanna connect with me through command-line ?
+Hit in your terminal to connect</i> : 
+
+```bash
+npx irtesaam
+```
+
 <hr>
 
 ### :fire: Stats :
