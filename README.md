@@ -24,10 +24,13 @@ function aboutMe() {
 
 ```
 <div id="badges" align="center">
-  <a href="https://in.linkedin.com/in/irtesaam-atfi-a6aa0924a">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://irtesnaps.in/">
+   <img src="https://img.shields.io/badge/Portfolio-1b213d?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/irte.snaps_/">
+  <a href="https://in.linkedin.com/in/irtesaam">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/irte.snaps/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
