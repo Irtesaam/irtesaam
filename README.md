@@ -90,24 +90,24 @@ npx irtesaam
   </tr>
    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
       <br>Next.js
     </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+      </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>Node.js
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="ubuntu" />
       <br>Express.js
+    </td>
+     <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="VsCode" />
@@ -139,6 +139,32 @@ npx irtesaam
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="ubuntu" />
       <br>Powershell
+    </td>
+ </tr>
+   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="tailwind" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="MongoDB" />
+      <br>Studio
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="MongoDB" />
+      <br>Flutter
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="VsCode" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="ubuntu" />
+      <br>LaTex
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="ubuntu" />
+      <br>NeoVim
     </td>
  </tr>
 </table>
