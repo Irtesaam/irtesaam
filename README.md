@@ -142,21 +142,21 @@ npx irtesaam
     </td>
  </tr>
    <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="MongoDB" />
+      <br>Android Studio
+    </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="MongoDB" />
+      <br>React Native
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="VsCode" />
+      <br>Supabase
+    </td>
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="tailwind" />
       <br>Bash
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="MongoDB" />
-      <br>Studio
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="MongoDB" />
-      <br>Flutter
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="VsCode" />
-      <br>Firebase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="ubuntu" />
