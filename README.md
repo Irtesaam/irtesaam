@@ -50,9 +50,9 @@ npx irtesaam
 <div align="center">
   <img height=200 align="center" src="https://github-readme-blond.vercel.app/api?username=irtesaam&title_color=e4405f&show_icons=true&show=prs_merged_percentage&text_color=ffffff&icon_color=4493f8&bg_color=151b23&line_height=27" alt="**SEU NOME** github stats" />
 
-   <img height=200 align="center" src="https://github-readme-blond.vercel.app/api/top-langs/?username=irtesaam&title_color=e4405f&text_color=ffffff&icon_color=61dafb&bg_color=151b23&langs_count=10&layout=compact&border_color=white&hide_border=false&size_weight=0.5&count_weight=0.5" />
+   <img height=200 align="center" src="https://github-readme-blond.vercel.app/api/top-langs/?username=irtesaam&count_private=true&title_color=e4405f&text_color=ffffff&icon_color=61dafb&bg_color=151b23&langs_count=10&layout=compact&border_color=white&hide_border=false&size_weight=0.5&count_weight=0.5" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irtesaam&theme=xcode&bg_color=151b23&title_color=e4405f&hide_border=false&line=007ec6&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irtesaam&count_private=true&theme=xcode&bg_color=151b23&title_color=e4405f&hide_border=false&line=007ec6&point=ffffff" width="90%"/>
 </div>
 
 <hr>
