@@ -1,11 +1,8 @@
-
-<!--
-**Irtesaam/irtesaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=irtesaam&label=Profile%20views&color=blue&style=flat" alt="irtesaam"/> </p>
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Nice+to+meet+you....!&center=true&size=30&color=A9A9A9">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hey,+There!+👋;Welcome+to+my+GitHub...!" />
+</a>
 </div>
 <hr>
 <div align="right" width="300">
@@ -48,11 +45,11 @@ npx irtesaam
 
 ### :fire: Stats :
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-blond.vercel.app/api?username=irtesaam&count_private=true&cache_seconds=30&title_color=e4405f&show_icons=true&show=prs_merged_percentage&text_color=ffffff&icon_color=4493f8&bg_color=151b23&line_height=27" alt="**SEU NOME** github stats" />
+  <img height=200 align="center" src="https://github-readme-blond.vercel.app/api?username=irtesaam&count_private=true&cache_seconds=30&title_color=e4405f&show_icons=true&show=prs_merged_percentage&include_all_commits=true&custom_title=GitHub%20Stats&text_color=ffffff&icon_color=4493f8&bg_color=151b23&line_height=27" alt="**SEU NOME** github stats" />
 
-   <img height=200 align="center" src="https://github-readme-blond.vercel.app/api/top-langs/?username=irtesaam&count_private=true&cache_seconds=30&title_color=e4405f&text_color=ffffff&icon_color=61dafb&bg_color=151b23&langs_count=10&layout=compact&border_color=white&hide_border=false&size_weight=0.5&count_weight=0.5" />
+   <img height=200 align="center" src="https://github-readme-blond.vercel.app/api/top-langs/?username=irtesaam&count_private=true&cache_seconds=30&title_color=e4405f&text_color=ffffff&icon_color=61dafb&custom_title=Top%20Languages&bg_color=151b23&exclude_repo=Web_Development,to_do_list,travellog&langs_count=10&layout=compact&border_color=white&hide_border=false&size_weight=0.5&count_weight=0.5" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irtesaam&count_private=true&theme=xcode&bg_color=151b23&title_color=e4405f&hide_border=false&line=007ec6&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irtesaam&count_private=true&custom_title=Contribution%20graph&theme=xcode&bg_color=151b23&title_color=e4405f&hide_border=false&line=007ec6&point=ffffff" width="90%"/>
 </div>
 
 <hr>
@@ -62,16 +59,16 @@ npx irtesaam
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -80,12 +77,12 @@ npx irtesaam
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
    <tr>
@@ -98,73 +95,73 @@ npx irtesaam
       <br>Tailwind
       </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="ubuntu" />
-      <br>Express.js
-    </td>
-     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="MongoDB" />
+      <br>React
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="VsCode" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="VsCode" />
+      <br>Golang
+    </td>
+      <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Git" />
+      <br>Postgres
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
   </tr>
  <tr>
    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="tailwind" />
-      <br>Kali Linux
+        <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="redhat" />
+      <br>RedHat
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="MongoDB" />
-      <br>Vercel
+        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="debian" />
+      <br>Debian
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="MongoDB" />
-      <br>Vim
+        <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="arch" />
+      <br>Arch
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="MongoDB" />
+      <br>NeoVim
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
-      <br>ubuntu
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="VsCode" />
+      <br>Lua
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="ubuntu" />
-      <br>Powershell
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
+      <br>Bash
     </td>
  </tr>
    <tr>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="MongoDB" />
-      <br>Android Studio
+      <br>Studio
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="MongoDB" />
-      <br>React Native
+        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="MongoDB" />
+      <br>Gradle
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="ubuntu" />
+      <br>Yarn
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="VsCode" />
       <br>Supabase
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="tailwind" />
-      <br>Bash
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="tailwind" />
+      <br>Vercel
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="ubuntu" />
       <br>LaTex
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="ubuntu" />
-      <br>NeoVim
     </td>
  </tr>
 </table>
